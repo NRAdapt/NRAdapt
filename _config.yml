@@ -2,6 +2,5 @@ remote_theme: thuhcsi/slate
 title: "NRAdapt: Noise-Robust Adaptive Text to Speech Using Untranscribed Data"
 description: Submitted to IJCNN 2024
 show_downloads: false
-show_logo: false
 google_analytics:
 theme: jekyll-theme-cayman
